@@ -1,0 +1,30 @@
+
+mat-form-field{
+    
+    margin-top: 2rem;
+    width: 80%;
+}
+.todo-head{
+background-color: #023047b1;
+height: 4rem;
+color: white;
+}
+.todo-head span{
+    font-size: 2rem;
+}
+button{
+background: transparent;
+width: 80%;
+height: 2rem;
+border-color: #023047;
+transition: all 0.5s;
+color: #023047;
+font-weight: bold;
+}
+button:hover{
+    background-color: #023047b1;
+    color: white;
+    font-weight: bold;
+    border-color: #023047b1;
+    
+}
